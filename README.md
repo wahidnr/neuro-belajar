@@ -176,20 +176,20 @@ Used to take part of `scheme`, `host`, or `path` of URL. This language may not w
 
 ### Gradle
 
-[ ![Download](https://api.bintray.com/packages/mrhabibi/maven/neuro/images/download.svg) ](https://bintray.com/mrhabibi/maven/neuro/_latestVersion)
+[![](https://jitpack.io/v/wahidnr/neuro-belajar.svg)](https://jitpack.io/#wahidnr/neuro-belajar)
 
 Add this line in your `build.gradle` file:
 
 ```groovy
-implementation 'com.mrhabibi:neuro:$latestVersion'
+implementation 'com.github.wahidnr:neuro-belajar:$latestVersion'
 ```
 
-This library is hosted in the [JCenter repository](https://bintray.com/mrhabibi/maven), so you have to ensure that the repository is included:
+This library is hosted in the [Jitpack repository](https://jitpack.io/), so you have to ensure that the repository is included:
 
 ```groovy
 buildscript {
    repositories {
-      jcenter()
+      maven { url 'https://jitpack.io' }
    }
 }
 ```
