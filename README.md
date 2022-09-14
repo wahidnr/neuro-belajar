@@ -1,5 +1,7 @@
 # Neuro
 
+[![](https://jitpack.io/v/wahidnr/neuro-belajar.svg)](https://jitpack.io/#wahidnr/neuro-belajar)
+
 The next generation of <a href="https://github.com/bukalapak/url-router">URL Router</a> with cleaner code and improved performance up to 3000% faster than previous version, support modularization, easier to use, and many other benefits!
 
 ## Biological Anatomy
